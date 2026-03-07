@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**starfei/starfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 近期构建：
 - 🔑交互文件：极简风控，定义自己的核心身份、认知原则、工作方式
 - 🧬记忆系统：保持认知连续性，核心组件为记忆生成、灾备存储和快速检索
 - 🧠认知系统：自我思考工具，核心为数据输入处理、联想与概念网络、内容输出框架
 
--->
