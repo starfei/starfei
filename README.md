@@ -7,6 +7,6 @@
   - 🏛️[AI知识库](https://github.com/starfei/reading)：积累自己长时间沉淀后的知识，不处理即时信息
   - 🧬[AI记忆库](https://github.com/starfei/Memory)：积累自己与AI交互的决策经验，不追求完整历史
   - 🧠[AI认知库](https://github.com/starfei/Cognition)：积累自己与AI生成的独特认知，不下注通用共识
-  - 💎[DeSoClaw](https://github.com/starfei/Desoclaw)：基于DeSo的智能体社交助手
+  - 💎[DeSoClaw](https://github.com/starfei/Desoclaw)：基于DeSo社交图谱的智能体社交助手
 
 
