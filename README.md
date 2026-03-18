@@ -1,9 +1,8 @@
 ## Hi 👋
 
 核心哲学：第一性原理，减法原则，发布胜于完美。
-我开发工具来解决自己的问题，然后与朋友分享。目前正在探索Crypto如何与AI结合。
 
-近期构建：
+我目前正在探索Crypto如何与AI结合，近期构建：
 
   - 🔑[AI基础库](https://github.com/starfei/Soul)：定义自己与AI交互的核心身份和工作方式
   - 🏛️[AI知识库](https://github.com/starfei/reading)：积累自己长时间沉淀后的知识，不处理即时信息
