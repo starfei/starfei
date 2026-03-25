@@ -5,6 +5,7 @@
   - 🔑[AI基础库](https://github.com/starfei/Soul)：定义我与AI的交互方式
   - 🧬[AI记忆库](https://github.com/starfei/Memory)：积累我给AI的私有语料
   - 📝[AI内容库](https://github.com/starfei/Cognition)：积累我和AI的个人内容
-  - 💎[DeSoClaw](https://github.com/starfei/Desoclaw)：基于社交图谱的AI社交助手，不执行低质量互动
+  - 💎[DeSoClaw](https://github.com/starfei/Desoclaw)：基于DeSo社交图谱的AI助手，可智能化发布、评论、点赞
+  - 🐦[SocialX](https://github.com/starfei/SocialX)：基于X社交数据的AI助手，使用AI采集、提取高质量投资信号
 
 
